@@ -12,6 +12,10 @@
   <a href="https://github.com/NhamNgocTuanAnh" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=NhamNgocTuanAnh&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="annt's Stats" >
   </a>
+  
+    <a href="https://github.com/NhamNgocTuanAnh" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhamNgocTuanAnh&layout=compact" >
+  </a>
 <!---
 <br>
 
