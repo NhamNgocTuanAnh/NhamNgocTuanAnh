@@ -12,7 +12,7 @@
   <a href="https://github.com/thuanpham2311" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6" alt="Thuan's Stats" >
   </a>
-
+<!---
 <br>
 
   <a target="_blank" rel="noopener noreferrer" href= "https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw">
@@ -47,6 +47,7 @@
     <img src="./img/icons/paypal.svg" width="26px"/>
   </a>
 <br>
+--->
 </div>
 
 <!---
